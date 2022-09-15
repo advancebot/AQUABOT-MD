@@ -69,7 +69,8 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 KMK.BOT   "required": true
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 KMK.BOT"
+            "required": true
       },
          "HEROKU": {
             "description": "",
